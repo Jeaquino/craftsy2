@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= title %></title>
+</head>
+<body>
+    <main>
+        <section>
+            <article>
+                <img src="" alt="">
+                <div>
+                    <h1><%= product.nombre %></h1>
+                    <p><%= product.marca %></p>
+                    <p><%= product.precio %></p>
+                    <p><%= product.modelo %></p>
+                    <% for (let index = 0; index < product.caracteristicas.length; index++) { %>
+                        <p><%=product.caracteristicas[index] %></p>
+                    <% } %>
+                    <button>Agregar al carrito</button>
+                </div>
+            </article>
+        </section>
+    </main>
+</body>
+</html>

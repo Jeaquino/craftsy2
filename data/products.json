@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "nombre": "Smartphone",
+        "marca": "MarcaX",
+        "modelo": "ModeloA",
+        "precio": 599.99,
+        "caracteristicas": [
+            "Pantalla táctil",
+            "Cámara de alta resolución",
+            "Procesador rápido",
+            "Almacenamiento ampliable"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Laptop",
+        "marca": "MarcaY",
+        "modelo": "ModeloB",
+        "precio": 1299.99,
+        "caracteristicas": [
+            "Pantalla HD",
+            "Procesador de múltiples núcleos",
+            "Memoria RAM generosa",
+            "Disco SSD de alta velocidad"
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Auriculares inalámbricos",
+        "marca": "MarcaZ",
+        "modelo": "ModeloC",
+        "precio": 99.99,
+        "caracteristicas": [
+            "Conexión Bluetooth",
+            "Cancelación de ruido",
+            "Batería de larga duración",
+            "Diseño ergonómico"
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Tablet",
+        "marca": "MarcaW",
+        "modelo": "ModeloD",
+        "precio": 349.99,
+        "caracteristicas": [
+            "Pantalla táctil",
+            "Procesador eficiente",
+            "Diseño delgado",
+            "Conectividad Wi-Fi"
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Cámara digital",
+        "marca": "MarcaV",
+        "modelo": "ModeloE",
+        "precio": 449.99,
+        "caracteristicas": [
+            "Sensor de alta resolución",
+            "Grabación de video 4K",
+            "Zoom óptico",
+            "Pantalla LCD incorporada"
+        ]
+    }
+]
